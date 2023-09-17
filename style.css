@@ -86,20 +86,3 @@ img {
   margin-bottom: 20px;
   letter-spacing: 1px;
 }
-
-/* Media Query for Mobile Devices */
-@media (max-width: 480px) {
-  #center a {
-    display: none;
-  }
-  img {
-    top: 48.5%;
-    left: 48%;
-  }
-  p {
-    width: 80%;
-  }
-  #bottom h1 {
-    margin-bottom: 3px;
-  }
-}
